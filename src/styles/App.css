@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.App {
+.appContainer {
   height: 100vh;
   display: flex;
   align-items: center;
